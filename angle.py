@@ -1,3 +1,9 @@
+# angle.py
+# Part of Spirograph https://github.com/MiniGirlGeek/Spirograph
+#
+# See LICENSE file for copyright and license details
+
+
 import math
 import pygame, sys, colorsys
 from pygame.locals import *
