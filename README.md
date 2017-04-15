@@ -8,6 +8,6 @@ Cool examples to try:
 x, y =  angle_to_point(angle_to_point([WIDTH/2,HEIGHT/2], 100, a*5), 100, a*0.25)
 ```
 
-![alt](/examples/Screen Shot 2016-05-15 at 14.50.16.png)
+![alt](/examples/Screen\%20Shot\%202016-05-15\%20at\%2014.50.16.png)
 
 See more [examples](examples/README.md)
